@@ -1,0 +1,1 @@
+# severe-infection-identification- This Project is based on calculating and analysing Severe infection prevailing in patients based on the medical data available.The complete analysis is done using R.
